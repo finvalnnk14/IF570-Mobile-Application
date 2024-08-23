@@ -12,5 +12,7 @@ Dilarang keras untuk melakukan plagiarisme dari repisitory ini.
 
 #How To Install Android Studio
 : https://youtu.be/8gc5z3aKc6k?si=9GqnqIWelnaYuXj9 
+
+#Android Studio Bisa Di Download Disini: https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnM7_SHQwrMd_Mfuhl4uD2l4h9K-zTdFT1I4VZb8zQzBWu-c6YuE-pYaAgcxEALw_wcB&gclsrc=aw.ds&hl=id
 ---------------------------------------------------------------------------------------------------------------
 Silahkan kumpulkan file codingan berupa zip ke elearning dan apk ke link google drive yang aku berikan di grup kelas
