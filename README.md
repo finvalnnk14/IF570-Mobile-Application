@@ -9,5 +9,8 @@ Dilarang keras untuk melakukan plagiarisme dari repisitory ini.
 - ke menu build
 - pilih Build App Bundle(s)/APK(s)
 - pilih Build APK(s)
+
+#How To Install Android Studio
+Link: https://youtu.be/8gc5z3aKc6k?si=9GqnqIWelnaYuXj9 
 ---------------------------------------------------------------------------------------------------------------
 Silahkan kumpulkan file codingan berupa zip ke elearning dan apk ke link google drive yang aku berikan di grup kelas
